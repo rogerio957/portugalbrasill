@@ -1,0 +1,302 @@
+
+ #EXTM3U
+#EXTINF:-1,PT1: AMC SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78536
+#EXTINF:-1,PT1: AXN SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78534
+#EXTINF:-1,PT1: AXN WHITE SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78535
+#EXTINF:-1,PT1: AXN BLACK HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78476
+#EXTINF:-1,PT1: CINEMUNDO SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78537
+#EXTINF:-1,PT1: FOX COMEDY SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78533
+#EXTINF:-1,PT1: FOX CRIME SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78531
+#EXTINF:-1,PT1: FOX HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78470
+#EXTINF:-1,PT1: FOX LIFE SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78530
+#EXTINF:-1,PT1: FOX CRIME SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78531
+#EXTINF:-1,PT1: FOX MOVIES SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78532
+#EXTINF:-1,PT1: HOLLYWOOD SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78538
+#EXTINF:-1,PT1: NOS STUDIOS HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78482
+#EXTINF:-1,PT1: TVCINE ACTION SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78528
+#EXTINF:-1,PT1: TVCINE EDITION SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78526
+#EXTINF:-1,PT1: TVCINE EMOTION SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78527
+#EXTINF:-1,PT1: TVCINE TOP SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78525
+#EXTINF:-1,PT1: SYFY
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78481
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP",Canal Sony HD
+http://acsb.sh:80/bF3y9W/68GSme/71826.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T",Cinemax HD
+http://acsb.sh:80/bF3y9W/68GSme/71835.ts
+#EXTINF:-1 tvg-id="Film&Arts HD" tvg-logo="",Film & Arts HD
+http://acsb.sh:80/bF3y9W/68GSme/104915.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc",HBO HD
+http://acsb.sh:80/bF3y9W/68GSme/72120.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ",HBO 2 HD
+http://acsb.sh:80/bF3y9W/68GSme/72112.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M",HBO Family HD
+http://acsb.sh:80/bF3y9W/68GSme/72116.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png",HBO Mundi HD
+http://acsb.sh:80/bF3y9W/68GSme/72123.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H",HBO + HD
+http://acsb.sh:80/bF3y9W/68GSme/72127.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png",HBO Pop HD
+http://acsb.sh:80/bF3y9W/68GSme/72131.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4",HBO Signature HD
+http://acsb.sh:80/bF3y9W/68GSme/72136.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png",HBO Xtreme HD
+http://acsb.sh:80/bF3y9W/68GSme/72140.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL",Megapix HD
+http://acsb.sh:80/bF3y9W/68GSme/72169.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn",Paramount Channel HD
+http://acsb.sh:80/bF3y9W/68GSme/72219.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj",Espaço HD
+http://acsb.sh:80/bF3y9W/68GSme/72319.ts
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png",Star Channel HD
+http://acsb.sh:80/bF3y9W/68GSme/71938.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Crr",TBS HD
+http://acsb.sh:80/bF3y9W/68GSme/72344.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL",Telecine Action HD
+http://acsb.sh:80/bF3y9W/68GSme/72348.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP",Telecine Cult HD
+http://acsb.sh:80/bF3y9W/68GSme/72352.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE",Telecine Fun HD
+http://acsb.sh:80/bF3y9W/68GSme/72356.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL",Telecine Pipoca HD
+http://acsb.sh:80/bF3y9W/68GSme/72360.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x",Telecine Premium HD
+http://acsb.sh:80/bF3y9W/68GSme/72364.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW",Telecine Touch HD
+http://acsb.sh:80/bF3y9W/68GSme/72368.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR",TNT HD
+http://acsb.sh:80/bF3y9W/68GSme/72378.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe",TNT Series HD
+http://acsb.sh:80/bF3y9W/68GSme/72383.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR",Universal TV HD
+http://acsb.sh:80/bF3y9W/68GSme/72421.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP",Warner Channel HD
+http://acsb.sh:80/bF3y9W/68GSme/72433.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 1 HD
+http://acsb.sh:80/bF3y9W/68GSme/72994.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 10 HD
+http://acsb.sh:80/bF3y9W/68GSme/73003.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 2 HD
+http://acsb.sh:80/bF3y9W/68GSme/72995.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 3 HD
+http://acsb.sh:80/bF3y9W/68GSme/72996.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 4 HD
+http://acsb.sh:80/bF3y9W/68GSme/72997.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 5 HD
+http://acsb.sh:80/bF3y9W/68GSme/72998.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 6 HD
+http://acsb.sh:80/bF3y9W/68GSme/72999.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 7 HD
+http://acsb.sh:80/bF3y9W/68GSme/73000.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 8 HD
+http://acsb.sh:80/bF3y9W/68GSme/73001.ts
+#EXTINF:-1 tvg-logo="",Cine SKY 9 HD
+http://acsb.sh:80/bF3y9W/68GSme/73002.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
